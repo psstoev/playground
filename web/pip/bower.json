@@ -1,0 +1,7 @@
+{
+  "name": "pip",
+  "private": true,
+  "dependencies": {
+    "polymer": "~0.3.3"
+  }
+}
